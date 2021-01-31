@@ -3,6 +3,7 @@
 Скопировать ransomwaremonitor.dll в корень любого диска
 
 В реестре: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Windows\AppInit_DLLs заменить на адрес dll для windows 32 bit
+
 HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Windows\AppInit_DLLs для windows 64 bit
 
 Компиляция через MS VC developer command prompt
