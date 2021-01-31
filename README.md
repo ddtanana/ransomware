@@ -1,4 +1,4 @@
-# ransomware
+# ransomwaremonitor
 Установка:
 Скопировать ransomwaremonitor.dll в корень любого диска
 
